@@ -12,3 +12,100 @@
 <h1>Primer titulo</h1>
 <h2>Segundo titulo</h2>
 <h3>Tercer titulo</h3>
+
+<h2 id ="Ejercicios2">Ejercicio2</h2>
+<h3>2.	Definir un estilo diferente para los elementos h1,h2,h3,h4,h5 y h6. Mostrar mensajes utilizando estos elementos a las que se le han definido estilos (por ahora solo conocemos el color de texto y fondo)</h3>
+<h1>Primer titulo</h1>
+<h2>Segundo titulo</h2>
+<h3>Tercer titulo</h3>
+<h4>Cuarto titulo</h4>
+<h5>Quinto titulo</h5>
+<h6>Sexto titulo</h6>
+
+
+<h2 id ="Ejercicio3">Ejercicio3</h2>
+<h3>3.	Definir reglas para los elementos HTML: h1,h2,h3,h4,h5 y h6. Inicializar la propiedad font-size con valores decrecientes para cada uno de los elementos (40,30,25,20,15 y 10 píxeles). Inicializar la propiedad font-family para las tres primeros elementos con los valores: Arial, Arial Black y Arial Narrow</h3>
+<h1 id="ayer">ayer</h1>
+<h2 id="anteayer">anteayer</h2>
+<h3 id="hoy">hoy</h3>
+<h4>mañana</h4>
+<h5>pasado</h5>
+<h6>pasado mañana</h6>
+
+<h2 id="Ejercicio4">Ejercicio4</h2>
+<h3>4.	Definir la misma fuente, color y tamaño de fuente para los elementos p (párrafo) y h6 (tener en cuenta que cuando vea la página el texto que se encuentra en el elemento h6 difiere del texto que se encuentra dentro del párrafo por la propiedad font-weight (ya que el elemento h6 es de tipo bold por defecto y el elemento p tiene por defecto normal)</h3>
+
+<p id="hola">hola</p>
+<h6 id="Titulo">Titulo</h6>
+
+<h2 id="Ejercicio5">Ejercicio5</h2>
+<h3>5.	Definir para el elemento h6 el mismo tamaño de fuente (12px) que el elemento p(párrafo) pero color azul para el título y gris claro (color:#aaaaaa) para el párrafo. Agrupar los dos elementos para la definición de la fuente y posteriormente agregar a cada elemento el valor respectivo para el color del texto.</h3>
+
+<p id="p">Parrafo1</p>
+<h6 id="Titulo1">Titulo1</h6>
+
+<h2 id="Ejercicio6">Ejercicio6</h2>
+<h3>6.	Definir para el elemento párrafo (p) el color verde puro, texto centrado. Imprimir varios párrafos para ver los resultados según la regla de estilo definida. ¿Qué valor debemos definir para que el texto aparezca con color rojo oscuro?</h3>
+
+<p id="verdepuro"> verde</p>
+<p id="rojo">Rojo</p>
+
+<h2 id="Ejercicio7">Ejercicio7</h2>
+<h3>7.	Definir los elementos de cabecera h1, h2 y h3 con valores decrecientes para las propiedades: letter-spacing, word-spacing. Luego inicializar la propiedad text-transform para que el texto siempre salga en mayúsculas</h3>
+
+<h1 id="h1">Esto es un H1</h1>
+<h2 id="h2">Esto es un H2</h2>
+<h3 id="h3">Esto es un H3</h3>
+
+<h2 id="Ejercicio8">Ejercicio8</h2>
+<h3>8.	Confeccione una página que define una regla para el elemento body e inicialice las propiedades color y font-family. Luego defina reglas de estilo para los elementos h1,h2 y h3 que redefinan la fuente con los valores: Times New Roman, Courier y Arial respectivamente. Imprima tres títulos, cada uno con los elementos h1,h2 y h3. Por último imprima un párrafo.</h3>
+
+<h1 id="primero">Esto es un H1</h1>
+<h2 id="segundo">Esto es un H2</h2>
+<h3 id="tercero">Esto es un H3</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque id blandit ante, ac consectetur ligula. Nulla commodo commodo luctus. Fusce consequat tellus pretium accumsan pellentesque. Nunc ligula ex, viverra nec mauris sit amet, tristique eleifend urna. Integer dignissim ex id varius placerat. Maecenas viverra justo eros, sit amet convallis tellus rutrum sed. In eget nibh non mi lobortis rutrum consectetur a eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tristique, augue a dictum aliquet, erat leo scelerisque tellus, nec placerat lectus eros eget turpis. Sed ante libero, malesuada sit amet dolor non, commodo porta nisi. Maecenas et tincidunt justo. Donec blandit dui purus, nec aliquam libero congue eget. Aenean commodo lacus finibus, pretium dui ut, interdum odio.</p>
+
+<h2 id="Ejercicio9"> Ejercicio9</h2>
+<h3>9.	Definir distintas escalas de grises para los textos contenidos por el elemento "em" que se encuentren contenidos por los elementos h1,h2,h3,h4,h5 y h6. La escala de grises que podemos utilizar es:
+  color:#dddddd; si está contenido en un h1
+  color:#cccccc; si está contenido en un h2
+  color:#bbbbbb; etc.
+  color:#aaaaaa;
+  color:#999999;
+  color:#888888;
+Aparecen los bloques de más claro a más oscuro (cuando los tres valores son iguales (rojo,verde,azul) estamos en presencia de un gris (salvo el #000000 y el #ffffff))</h3>
+
+<h1 id="gris1">Esto es un H1</h1>
+<h2 id="gris2">Esto es un H2</h2>
+<h3 id="gris3">Esto es un H3</h3>
+<h4 id="gris4">Esto es un H4</h4>
+<h5 id="gris5">Esto es un H5</h5>
+<h6 id="gris6">Esto es un H6</h6>
+
+<h2 id="Ejercicio10">Ejercicio10</h2>
+<h3>10.	Crear una página web que contenga una cabecera de nivel 1 (h1), luego una cabecera de nivel 2 (h2) y un conjunto de párrafos. Definir reglas de estilo para los tres elementos h1, h2 y p. Inicializar propiedades vistas en conceptos anteriores. Intentar el planteo de una página que muestre el contenido de la forma más clara posible.</h3>
+
+<h2 id="Ejercicio11">Ejercicio11</h2>
+<h3>11.	Definir en la hoja de estilo externa estas dos clases:</h3>
+
+<h1>Esto es <span class="subrayado">un texto que va a ser subrayado </h1></span>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ultricies elit non iaculis tincidunt. Duis mattis feugiat libero, at laoreet neque aliquam bibendum. Aliquam non interdum nibh. Sed et ullamcorper tellus. <spam class=subrayado>Sed viverra tempus ex sed lacinia. Sed sed interdum nunc, id placerat mauris. Aliquam ex dui, commodo ut auctor sed, vestibulum ac sapien. Nam id augue in diam dapibus euismod non quis ipsum. Ut posuere et leo at suscipit.</span>
+<p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ultricies elit non iaculis tincidunt. Duis mattis feugiat libero, at laoreet neque aliquam bibendum. Aliquam non interdum nibh. Sed et ullamcorper tellus. <spam class=tachado>Sed viverra tempus ex sed lacinia. Sed sed interdum nunc, id placerat mauris. Aliquam ex dui, commodo ut auctor sed, vestibulum ac sapien. Nam id augue in diam dapibus euismod non quis ipsum. Ut posuere et leo at suscipit.</span>
+<p>
+<h2 id="Ejercicio12">Ejercicio12</h2>
+<h3>12.	Definir estas dos reglas en la hoja de estilo externa. Luego crear una página HTML que contenga 3 preguntas y 3 respuestas. A cada pregunta y respuesta disponerla en un párrafo distinto. Asignar los estilos .pregunta y .respueta</h3>
+
+<p> <span class=pregunta>¿Que tal estas? </p></span>
+<p> <span class=respuesta>muy bien gracias </p></span> 
+
+<p> <span class=pregunta>¿Donde se encuentra la parada mas cercana? </p></span>
+<p> <span class=respuesta> se encuentra a dos calles de aqui a lado del molino </p></span> 
+<p> <span class=pregunta>¿Me puede decir su numero de telefono? </p></span>
+<p> <span class=respuesta>si mi numero de telefono es 090901234 </p></span> 
+
+<h2 id="Ejercicio13">Ejercicio13</h2>
+<h3>13.	Definir tres estilos de tipo id (cabecera, cuerpo y pie), luego definir en el archivo HTML tres párrafos inicializando el atributo id con los nombres de reglas de estilo creados.</h3>
+
