@@ -88,7 +88,7 @@ Aparecen los bloques de más claro a más oscuro (cuando los tres valores son ig
 <h2 id="Ejercicio11">Ejercicio11</h2>
 <h3>11.	Definir en la hoja de estilo externa estas dos clases:</h3>
 
-<h1>Esto es <span class="subrayado">un texto que va a ser subrayado </h1></span>
+<h1>Esto es <span class="subrayado">un texto que va a ser subrayado </h1>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ultricies elit non iaculis tincidunt. Duis mattis feugiat libero, at laoreet neque aliquam bibendum. Aliquam non interdum nibh. Sed et ullamcorper tellus. <spam class=subrayado>Sed viverra tempus ex sed lacinia. Sed sed interdum nunc, id placerat mauris. Aliquam ex dui, commodo ut auctor sed, vestibulum ac sapien. Nam id augue in diam dapibus euismod non quis ipsum. Ut posuere et leo at suscipit.</span>
 <p>
